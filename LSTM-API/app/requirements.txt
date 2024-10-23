@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+tensorflow
+keras
+jupyter
+fastapi
+uvicorn
+joblib
+prometheus_client
+pydantic
