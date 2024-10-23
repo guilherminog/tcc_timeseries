@@ -1,4 +1,5 @@
-# LSTM-API
+# LSTM-API - TRABALHO DE CONCLUSÃO DE CURSO
+
 
 ## Descrição
 Este projeto foi desenvolvido para implementar um modelo de previsão de vendas utilizando uma LSTM (Long Short-Term Memory). O projeto utiliza **FastAPI** para expor o modelo através de uma API, e ferramentas como **Docker**, **Prometheus** e **Grafana** para monitoramento e integração com outros sistemas. Além disso, conta com notebooks de desenvolvimento do modelo e pipelines para produção.
