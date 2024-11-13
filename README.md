@@ -1,5 +1,3 @@
-### README
-
 # **Integração de Técnicas de Aprendizado Profundo para Previsão de Vendas no Varejo**
 ## **Um Estudo de Caso da Walmart**
 
