@@ -13,7 +13,7 @@ Este projeto é uma análise aprofundada da previsão de vendas semanais no vare
 **Links para Visualização do Código e Relatório**:
 - 📄 [Visualizar no GitHub NBViewer](https://nbviewer.org/github/guilherminog/tcc_timeseries/blob/main/TCC_PUC_Walmart_sales_forecasting_notebook_Sarimax_LSTM.ipynb)
 - 🚀 [Executar no Google Colab](https://colab.research.google.com/drive/1qeJXkiapyZ3O_jVM6WkAUgZUVARAdQqt?usp=sharing)
-- 📈 [Relatório Técnico](https://drive.google.com/file/d/1a__3mByg0ND4--p3gK4LR1Z_RA2844q7/view?usp=sharing)
+- 📈 [Relatório Técnico](https://drive.google.com/file/d/1QgNfOeNiPCt1Tf76rnG7RjQ_9EY8W83t/view?usp=sharing)
 - 📂 [Drive](https://drive.google.com/drive/folders/1ArTjIj6kSaMjbKrxA7yFVbVpTcZsM2Pf?usp=sharing)
 ---
 
